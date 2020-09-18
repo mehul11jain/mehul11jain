@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - Currently doing my M.tech Project in the field of Pointer analysis. 
 - Also intereseted in Web development, Algorithms and Data structure.
 - Currently Learning LLVM compiler toolchain and how write optimization passes in LLVM.
-- I'm a Teaching assistant for the course [CS618](https://www.cse.iitb.ac.in/~uday/courses/cs618-20/) at IIT Bombay.
+- I'm a Teaching assistant for the course [CS618: Program Analysis](https://www.cse.iitb.ac.in/~uday/courses/cs618-20/) at IIT Bombay.
