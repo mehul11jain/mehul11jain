@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - I’m interested in compiler optimization and data-flow analysis.
 - Currently doing my M.tech Project in the field of Pointer analysis. 
 - Also intereseted in Web development, Algorithms and Data structure.
-- Currently Learning LLVM compiler toolchain and how write optimization passes in LLVM.
+- Currently Learning LLVM compiler toolchain and how to write out of tree optimization passes in LLVM.
 - I'm a Teaching assistant for the course [CS618: Program Analysis](https://www.cse.iitb.ac.in/~uday/courses/cs618-20/) at IIT Bombay.
